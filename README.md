@@ -1,3 +1,4 @@
+![Mariano Avancini Developer](https://github.com/avancini16/avancini16/blob/main/Cover/cover.gif)
 ### Hi there 👋
 
 <!--
