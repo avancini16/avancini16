@@ -31,5 +31,5 @@ Hola! 🤓💻
 
 ## Queres saber mas sobre mi? No dudes en contactarme!
 <p>Telefono: +54 9 1130686653</p>
-<p href='https://www.linkedin.com/in/mariano-nicol%C3%A1s-avancini-dev/'>LinkedIn: linkedin.com/in/mariano-nicolás-avancini-dev/</p>
+<p>LinkedIn: <a href='https://www.linkedin.com/in/mariano-nicol%C3%A1s-avancini-dev/'> linkedin.com/in/mariano-nicolás-avancini-dev/  </a></p>
 <p>Gmail: avancini16@gmail.com</p>
