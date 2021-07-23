@@ -1,8 +1,7 @@
 ![Mariano Avancini Developer](https://github.com/avancini16/avancini16/blob/main/Cover/cover.gif)
-### Hi there 👋
 
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+Hola! 🤓💻
 </h2>
 
 <!--
