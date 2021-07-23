@@ -1,6 +1,10 @@
 ![Mariano Avancini Developer](https://github.com/avancini16/avancini16/blob/main/Cover/cover.gif)
 ### Hi there 👋
 
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h2>
+
 <!--
 **avancini16/avancini16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
