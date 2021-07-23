@@ -28,3 +28,8 @@ Hola! 🤓💻
 
 <h3>E-commics</h3>
 <p>E-commics es un marketplace desarrollado en conjunto con otros developers. Dicha app otorga la oportunidad a sus usuarios de poder comprar y vender productos relacionados al entorno de los commics. Los usuarios podran loggearse, buscar productos, filtrarlos, ordenarlos y postearlos entre otras acciones. La app cuenta con una seccion de Newsletter, donde los consumidores podran estar actualizados en cuanto a las noticias mas recientes.</p>
+
+## Queres saber mas sobre mi? No dudes en contactarme!
+<p>Telefono: +54 9 1130686653</p>
+<p href='https://www.linkedin.com/in/mariano-nicol%C3%A1s-avancini-dev/'>LinkedIn: linkedin.com/in/mariano-nicolás-avancini-dev/</p>
+<p>Gmail: avancini16@gmail.com</p>
