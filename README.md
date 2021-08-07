@@ -29,6 +29,15 @@ Hola! 🤓💻
 <h3>E-commics</h3>
 <p>E-commics es un marketplace desarrollado en conjunto con otros developers. Dicha app otorga la oportunidad a sus usuarios de poder comprar y vender productos relacionados al entorno de los commics. Los usuarios podran loggearse, buscar productos, filtrarlos, ordenarlos y postearlos entre otras acciones. La app cuenta con una seccion de Newsletter, donde los consumidores podran estar actualizados en cuanto a las noticias mas recientes.</p>
 
+<h3>Weather App</h3>
+<p> Weather App es una app del clima desarrollada en el transcurso del bootcamp #SoyHenry utilizando una API externa y tecnologias Front-End.
+</p>
+<p>
+  <a><img src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 1.png"></a>
+  <a><img src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 2.png"></a>
+  <a><img src="https://github.com/avancini16/WeatherApp/blob/main/images/WeatherApp 3.png"></a>
+</p>
+
 ## Queres saber mas sobre mi? No dudes en contactarme!
 <p>Telefono: +54 9 1130686653</p>
 <p>LinkedIn: <a href='https://www.linkedin.com/in/mariano-nicol%C3%A1s-avancini-dev/'> linkedin.com/in/mariano-nicolás-avancini-dev/  </a></p>
