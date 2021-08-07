@@ -26,7 +26,7 @@ Hola! 🤓💻
 <h3>Pokemons App</h3>
 <p>Como proyecto final individual para el bootcamp de #SoyHenry desarrole una app que le permite al usuario navegar a travez de una sigle page application donde podra buscar pokemons, ver sus caracteristicas, filtrarlos, ordenarlos e incluso crearlos.</p>
 
-<h3>🦸🏽‍♂️ E-commics</h3>
+<h3 href='https://e-commics.vercel.app/'>🦸🏽‍♂️ E-commics</h3>
 <p>E-commics es un marketplace desarrollado en conjunto con otros developers. Dicha app otorga la oportunidad a sus usuarios de poder comprar y vender productos relacionados al entorno de los commics. Los usuarios podran loggearse, buscar productos, filtrarlos, ordenarlos y postearlos entre otras acciones. La app cuenta con una seccion de Newsletter, donde los consumidores podran estar actualizados en cuanto a las noticias mas recientes.</p>
 <p>
   <a><img src="https://github.com/avancini16/avancini16/blob/main/images/E-commics 1.png"></a>
