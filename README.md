@@ -4,25 +4,25 @@
 Hola! 🤓💻
 </h1>
 
-## Sobre mi:
+## Sobre mi
 <p> 💁🏽‍♂️ Soy una persona apasionada, perseverante y ambicioso. Me gusta mucho empujarme hasta mis limites y ver de lo que soy capáz. </p>
-<p>Actualmente me encuentro estudiando la carrera de Ingenieria en Sistemas en la UTN y tambien finalizando el bootcamp de SoyHenry. </p>
+<p>Actualmente me encuentro estudiando la carrera de Ingenieria en Sistemas en la UTN y tambien finalizando el bootcamp de #SoyHenry 🙌🏽</p>
 
-## Tech Skills:
+## Tech Skills
 <ul>
-    <li>JavaScript</li>
-    <li>NodeJs</li>
-    <li>React</li>
-    <li>Redux</li>
-    <li>Express</li>
-    <li>SQL</li>
-    <li>Sequelize</li>
-    <li>MongoDB</li>
-    <li>Mongoose</li>
+    <li>📌 JavaScript</li>
+    <li>📌NodeJs</li>
+    <li>📌 React</li>
+    <li>📌Redux</li>
+    <li>📌Express</li>
+    <li>📌SQL</li>
+    <li>📌Sequelize</li>
+    <li>📌MongoDB</li>
+    <li>📌Mongoose</li>
 </ul>
 
 
-## Proyectos:
+## Proyectos
 <h3>Pokemons App</h3>
 <p>Como proyecto final individual para el bootcamp de #SoyHenry desarrole una app que le permite al usuario navegar a travez de una sigle page application donde podra buscar pokemons, ver sus caracteristicas, filtrarlos, ordenarlos e incluso crearlos.</p>
 
