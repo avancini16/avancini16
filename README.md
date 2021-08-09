@@ -26,7 +26,7 @@ Hola! 🤓💻
 <h3>Pokemons App</h3>
 <p>Como proyecto final individual para el bootcamp de #SoyHenry desarrole una app que le permite al usuario navegar a travez de una sigle page application donde podra buscar pokemons, ver sus caracteristicas, filtrarlos, ordenarlos e incluso crearlos.</p>
 <p>
-  <a><img src="https://github.com/avancini16/avancini16/blob/main/images/Pokemons 4.png"></a>
+  <a><img width='40%' height='20%' src="https://github.com/avancini16/avancini16/blob/main/images/Pokemons 4.png"></a>
   <a><img src="https://github.com/avancini16/avancini16/blob/main/images/Pokemons 1.png"></a>
   <a><img src="https://github.com/avancini16/avancini16/blob/main/images/Pokemons 2.png"></a>
   <a><img src="https://github.com/avancini16/avancini16/blob/main/images/Pokemons 3.png"></a>
