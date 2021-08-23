@@ -50,7 +50,7 @@ Hola! 🤓💻
 </p>
 
 <h3>📽 MoviesApp</h3>
-<p> Weather App es una app del clima desarrollada en el transcurso del bootcamp #SoyHenry utilizando una API externa y tecnologias Front-End.
+<p> MoviesApp es una aplicacion desarrolada durante el transcurso del bootcamp #soyHenry utilizando una API externa y aplicando las tecnologias React y Redux.
 </p>
 <p>
   <a><img width='40%' height='20%' src="https://github.com/avancini16/MoviesApp/blob/main/images/MoviesApp 1.png"></a>
